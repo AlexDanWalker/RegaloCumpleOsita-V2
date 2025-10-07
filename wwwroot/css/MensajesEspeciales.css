@@ -1,0 +1,72 @@
+.card-mensajes {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    background: linear-gradient(135deg, #ffe6f0, #fff0f5);
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.titulo-mensajes {
+    color: #ff4081;
+    margin-bottom: 10px;
+}
+
+.subtitulo-mensajes {
+    color: #555;
+    margin-bottom: 25px;
+    font-size: 1.1em;
+}
+
+.lista-mensajes {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 25px;
+    max-height: 300px;
+    overflow-y: auto;
+    text-align: left;
+}
+
+.lista-mensajes li {
+    background-color: #fff0f5;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.formulario-mensaje {
+    text-align: center;
+}
+
+.input-autor, .input-contenido {
+    width: 100%;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    border: 1px solid #ffb6c1;
+    font-size: 1em;
+}
+
+.input-contenido {
+    resize: vertical;
+    min-height: 80px;
+}
+
+.btn-enviar {
+    background-color: #ff4081;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-enviar:hover {
+    background-color: #e73370;
+    transform: scale(1.05);
+}

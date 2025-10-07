@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - For My Princess</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        /* Nav bar romántico */
+        nav {
+            background: linear-gradient(45deg, #ff80c0, #ffd700);
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        nav a {
+            color: white;
+            font-weight: bold;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1.1em;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            text-shadow: 0 0 8px white;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <!-- Encabezado central -->
+    <header style="text-align:center; margin: 20px 0;">
+        <h1>💖 For My Princess 💖</h1>
+    </header>
+
+    <!-- Nav bar -->
+    <nav>
+        <a href="~/">Home</a>
+        <a href="~/Home/TeExtrano">Te extraño</a>
+        <a href="~/Home/TuOsito">Tu Osito</a>
+        <a href="~/Home/Galeria">Galería</a>
+        <a href="~/Home/MensajesEspeciales">Mensajes Especiales</a>
+    </nav>
+
+    <!-- Contenido principal de cada vista -->
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+
+<!-- Scripts generales (sin Mensajes.js aquí) -->
+@RenderSection("Scripts", required: false)
+</body>
+</html>

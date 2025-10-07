@@ -1,0 +1,53 @@
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div>
+    <h1>💖 Página especial para mi osita 💖</h1>
+
+    <!-- Botones Te extraño -->
+    <button class="gordito" onclick="enviar('gordito','osita')">😘 Te extraño (gordito → osita)</button>
+    <button class="osita" onclick="enviar('osita','gordito')">💖 Te extraño (osita → gordito)</button>
+
+    <!-- Contadores -->
+    <h2 style="margin-top:30px;">📊 Contadores</h2>
+    <div class="contenedor-contadores">
+        <div class="contador">
+            <h3>💖 Tu osita</h3>
+            <p>Hoy: <span id="hoyOsita">0</span></p>
+            <p>Total: <span id="totalOsita">0</span></p>
+        </div>
+        <div class="contador">
+            <h3>😘 Tu gordito</h3>
+            <p>Hoy: <span id="hoyGordito">0</span></p>
+            <p>Total: <span id="totalGordito">0</span></p>
+        </div>
+    </div>
+
+    <!-- Historial de mensajes -->
+    <div id="historial-mensajes">
+        <h2>💌 Historial de mensajes</h2>
+        <ul id="lista-mensajes">
+            <!-- Mensajes se llenarán con JS -->
+        </ul>
+    </div>
+</div>
+
+<!-- Div para animación de mensaje enviado -->
+<div id="mensaje-enviado" style="
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #ff69b4;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 25px;
+    display: none;
+    font-size: 1.1em;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+">💌 Mensaje enviado con amor</div>
+
+@section Scripts {
+    <script src="~/js/Mensajes.js"></script>
+}

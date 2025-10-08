@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/obj/Release/net8.0/scopedcss/projectbundle/CumpleMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/CumpleMVC.bundle.scp.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Cena.jpg",
+      "PackagePath": "staticwebassets/Images/Cena.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Cine.jpg",
+      "PackagePath": "staticwebassets/Images/Cine.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Enchiladas.jpg",
+      "PackagePath": "staticwebassets/Images/Enchiladas.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Fotos.jpg",
+      "PackagePath": "staticwebassets/Images/Fotos.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Gia.jpg",
+      "PackagePath": "staticwebassets/Images/Gia.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Gia2.jpg",
+      "PackagePath": "staticwebassets/Images/Gia2.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Gia3.jpg",
+      "PackagePath": "staticwebassets/Images/Gia3.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Japon.jpg",
+      "PackagePath": "staticwebassets/Images/Japon.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Mascota.jpg",
+      "PackagePath": "staticwebassets/Images/Mascota.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Parque.jpg",
+      "PackagePath": "staticwebassets/Images/Parque.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Playa.jpg",
+      "PackagePath": "staticwebassets/Images/Playa.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/Images/Sushi.jpg",
+      "PackagePath": "staticwebassets/Images/Sushi.jpg"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/css/MensajesEspeciales.css",
+      "PackagePath": "staticwebassets/css/MensajesEspeciales.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/js/Mensajes.js",
+      "PackagePath": "staticwebassets/js/Mensajes.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/js/mensajesEspeciales.js",
+      "PackagePath": "staticwebassets/js/mensajesEspeciales.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/windwalkerc-noborrar/Descargas/CumpleMVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.CumpleMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.CumpleMVC.props",
+      "PackagePath": "build\\CumpleMVC.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.CumpleMVC.props",
+      "PackagePath": "buildMultiTargeting\\CumpleMVC.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.CumpleMVC.props",
+      "PackagePath": "buildTransitive\\CumpleMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

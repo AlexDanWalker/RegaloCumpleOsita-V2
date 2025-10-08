@@ -168,10 +168,8 @@
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/Mono.TextTemplating.dll
-/home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/MySqlConnector.dll
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/Npgsql.dll
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
-/home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/System.CodeDom.dll
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/System.Composition.AttributedModel.dll
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/System.Composition.Convention.dll
@@ -272,3 +270,9 @@
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/obj/Debug/net8.0/CumpleMVC.pdb
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/obj/Debug/net8.0/CumpleMVC.genruntimeconfig.cache
 /home/windwalkerc-noborrar/Descargas/CumpleMVC/obj/Debug/net8.0/ref/CumpleMVC.dll
+/home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/publish/web.config
+/home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/publish/appsettings.Development.json
+/home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/publish/appsettings.json
+/home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/publish/CumpleMVC.deps.json
+/home/windwalkerc-noborrar/Descargas/CumpleMVC/bin/Debug/net8.0/publish/CumpleMVC.runtimeconfig.json
+/home/windwalkerc-noborrar/Descargas/CumpleMVC/obj/Debug/net8.0/CumpleMVC.sourcelink.json

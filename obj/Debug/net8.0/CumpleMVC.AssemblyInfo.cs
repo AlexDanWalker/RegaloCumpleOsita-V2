@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CumpleMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a754227df695246c14e1989520377e9b11cd68e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CumpleMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CumpleMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

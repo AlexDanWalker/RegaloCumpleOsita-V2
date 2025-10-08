@@ -1,0 +1,171 @@
+/* Fondo suave romántico */
+body {
+    background: linear-gradient(135deg, #ffe4f1, #fff6e6); /* rosa claro → doradito pastel */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado principal */
+h1 {
+    color: #d63384; /* rosa intenso */
+    text-shadow: 1px 1px 3px #f8c8dc;
+    margin-top: 20px;
+}
+
+/* Contenedores */
+.contador {
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    width: 220px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.contador:hover {
+    transform: scale(1.05);
+}
+
+/* Sección contadores en flex */
+.contenedor-contadores {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 30px;
+}
+
+/* Estilos de botones */
+button {
+    border: none;
+    border-radius: 25px;
+    padding: 12px 20px;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Botón gordito → osita */
+button.gordito {
+    background: linear-gradient(45deg, #000, #ff0000); /* negro y rojo */
+    color: white;
+    font-weight: bold;
+}
+
+/* Botón osita → gordito */
+button.osita {
+    background: linear-gradient(45deg, #ff80c0, #ffd700); /* rosa y dorado */
+    color: white;
+    font-weight: bold;
+}
+
+/* Hover */
+button:hover {
+    opacity: 0.9;
+    transform: scale(1.05);
+}
+
+/* Historial de mensajes */
+#historial-mensajes {
+    margin-top: 40px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#historial-mensajes h2 {
+    text-align: center;
+    color: #d63384; /* rosa intenso */
+    margin-bottom: 15px;
+}
+
+#historial-mensajes ul {
+    list-style: none;
+    padding: 0;
+}
+
+#historial-mensajes li {
+    background-color: #fff0f5; /* rosa suave */
+    margin-bottom: 10px;
+    padding: 10px 15px;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    font-size: 0.95em;
+}
+
+/* Carta romántica */
+.carta-romantica {
+    background: white;
+    border-radius: 25px;
+    padding: 30px;
+    max-width: 700px;
+    width: 90%;
+    margin: 40px auto;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+    line-height: 1.8;
+    font-size: 1.1em;
+    text-align: center;
+    overflow: hidden;   /* 🔥 fuerza a que nada se salga */
+}
+
+.carta-romantica h2 + p {
+    font-style: italic;         /* cursiva */
+    color: #b35c8f;             /* un rosita suave que combine */
+    margin-bottom: 20px;        /* separa un poquito antes de las imágenes */
+}
+
+
+/* Opcional: resaltar palabras románticas */
+.carta-romantica span.destacado {
+    color: #d63384; /* rosa intenso */
+    font-weight: bold;
+}
+
+/* Contenedor de imágenes dentro de la carta */
+.imagenes-carta {
+    display: flex;
+    flex-wrap: wrap;    /* 🔥 evita que se amontonen */
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+/* Imágenes individuales */
+.imagen-individual img,
+.imagen-galeria img {
+    max-width: 100%;   /* nunca más grande que el contenedor */
+    height: auto;      /* mantiene proporción */
+    border-radius: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease-in-out;
+    display: block;    /* corrige espacios fantasmas */
+    margin: 0 auto;    /* centra la imagen */
+}
+
+.imagen-individual img:hover,
+.imagen-galeria img:hover {
+    transform: scale(1.05);
+}
+
+/* Galería */
+.imagen-galeria {
+    text-align: center;
+    max-width: 200px; /* 🔥 evita que cada imagen sea gigante */
+    flex: 1 1 auto;
+}
+
+.imagen-galeria p {
+    margin-top: 8px;
+    font-weight: bold;
+    color: #d63384;
+}
+
+.imagen-galeria img {
+    width: 200px;       /* todas con el mismo ancho */
+    height: 200px;      /* todas con el mismo alto */
+    object-fit: cover;  /* recorta sin deformar */
+}
